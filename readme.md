@@ -1,0 +1,2 @@
+# 1. Number guesser:
+        A command-line game where the computer picks a random number between 1 and 100, and the user has to guess it. The program tells them if they are too high or too low., and there is a maximum number of attempts per user , i was able to actually experiment , the whle loop , break and continue statements took about an hour of brainstorming to complete this ..
